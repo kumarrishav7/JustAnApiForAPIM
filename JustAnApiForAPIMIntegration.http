@@ -1,0 +1,6 @@
+@JustAnApiForAPIMIntegration_HostAddress = http://localhost:5103
+
+GET {{JustAnApiForAPIMIntegration_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
